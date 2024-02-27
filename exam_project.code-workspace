@@ -1,0 +1,31 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "files.associations": {
+            "database_m.h": "c",
+            "msg_queue_m.h": "c",
+            "types.h": "c",
+            "unistd.h": "c",
+            "utility.h": "c",
+            "stdlib.h": "c",
+            "math.h": "c",
+            "atom_operations.h": "c",
+            "db_m.h": "c",
+            "shm_m.h": "c",
+            "sem.h": "c",
+            "compare": "cpp",
+            "limits": "cpp",
+            "new": "cpp",
+            "ipc.h": "c",
+            "msgq_m.h": "c",
+            "sem_m.h": "c",
+            "wait.h": "c",
+            "stdbool.h": "c",
+            "string.h": "c"
+        }
+    }
+}
